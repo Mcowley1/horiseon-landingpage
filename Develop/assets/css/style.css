@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header starts */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* header ends */
 
 a {
     color: #ffffff;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero img */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* benefits aside starts */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -187,7 +191,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* benefits aside ends */
+/* footer starts */
 .footer {
     padding: 30px;
     clear: both;
